@@ -9,7 +9,7 @@ export default async function ProductDetails({ params }: ProductDetailsProps) {
 
     return <>
         <h1>
-            ProductDetails {productId}
+.            ProductDetails {productId}
         </h1>
     </>
 }
